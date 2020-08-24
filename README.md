@@ -35,3 +35,7 @@
 ➡️ [blog posts...](https://medium.com/@surhid.amatya)
 
 ---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surhidamatya&layout=compact&hide=html" alt="surhidamatya" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surhidamatya&show_icons=true" alt="surhidamatya" /></p>
