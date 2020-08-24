@@ -5,7 +5,7 @@
 
 ## I'm a Developer!
 
-- 🔭 I’m currently working on a [Leapfrog Technology][https://www.lftechnology.com/]!
+- 🔭 I’m currently working on a [Leapfrog Technology](https://www.lftechnology.com/)!
 - 🌱 I’m currently learning **Flutter, SwiftUI, JavaScript**
 - ⚡ Fun fact: I love photography and sleeping
 
