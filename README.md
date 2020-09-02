@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Surhid Amatya 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/abuanwar072?label=surhidamatya&logo=twitter&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/surhidamatya?label=surhidamatya&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/surhidamatya?logo=GitHub&style=for-the-badge)
 
 ## I'm a Developer!
