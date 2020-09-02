@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love photography and sleeping
 
 ### Connect with me:
-<a href="https://twitter.com/Amatya007Surhid" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="surhidamatya" height="22" width="22" /></a>
+<a href="https://twitter.com/surhidamatya007" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="surhidamatya" height="22" width="22" /></a>
 <a href="https://www.linkedin.com/in/surhidamatya/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="surhidamatya" height="22" width="22" /></a>
 <a href="https://www.instagram.com/amatyasurhid/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="surhidamatya" height="22" width="22" /></a>
 <br />
