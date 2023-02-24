@@ -9,7 +9,7 @@
 - ⚡ Attention to detail
 - 🔭 Detail/Ownership oriented
 - 🌱 Experienced in TDD, BDD, DDD and Integration Testing
-- ⚡ Familiar Sector: Health, EdTech, Ecommerce, Audio/Video Applications
+- ⚡ Crafted Applications for: Health, EdTech, Ecommerce, Audio/Video Sector
 ---
 ### Do you have any remote oppurtunity
 Please connect with [me](mailto:surhid.amatya@gmail.com)
