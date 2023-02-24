@@ -1,7 +1,6 @@
 ### Hi 👋, I'm Surhid Amatya 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/surhidamatya007?label=surhidamatya&logo=twitter&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/surhidamatya?logo=GitHub&style=for-the-badge)
+[StackOverflow]([https://stackoverflow.com/users/3556531/keshavdulal](https://stackoverflow.com/users/1613508/surhidamatya)) | [LinkedIn](https://linkedin.com/in/surhidamatya) | [Github](https://github.com/surhidamatya) | [Twitter](https://twitter.com/@amatyasurhid007)
 
 ## Fullstack Typescript Engineer (Mobile Heavy)
 
