@@ -12,7 +12,7 @@
 - ⚡ Crafted Applications for: Health, EdTech, Ecommerce, Audio/Video Sector
 ---
 ### Do you have any remote oppurtunity ?
-💻 Please connect with [me](mailto:surhid.amatya@gmail.com)
+💻 Let's [connect](mailto:surhid.amatya@gmail.com)
 ---
 Projects | Tech Stack | Tags
 --- | --- | ---
