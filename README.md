@@ -18,6 +18,12 @@
 <a href="https://www.instagram.com/amatyasurhid/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="surhidamatya" height="22" width="22" /></a>
 <br />
 
+---
+Projects | Tech Stack | Tags
+--- | --- | ---
+[Luminate](https://www.luminate.io/) | TS, React Native, Redux | Client
+---
+
 ### Languages and Tools:
 <code><img align="left" alt="Flutter" width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /> </code>
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
