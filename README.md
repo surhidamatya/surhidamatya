@@ -3,15 +3,15 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/surhidamatya007?label=surhidamatya&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/surhidamatya?logo=GitHub&style=for-the-badge)
 
-## Typescript Engineer (FE Heavy
+## Fullstack Typescript Engineer (Mobile Heavy)
 
-- 🔭 I’m currently working with [Webpoint Solutions](https://www.webpoint.io/)!
+- 🔭 I’m currently working with [Webpoint Solutions](https://www.webpoint.io/)
 - 🌱 Experienced in **React Native, Flutter, JavaScript, Typescript**
 - ⚡ Attention to detail
 - 🔭 Detail/Ownership oriented
 - 🌱 Experienced in TDD, BDD, DDD and Integration Testing
 - ⚡ Familiar Sector: Health, EdTech, Ecommerce, Audio/Video Applications
-- - Open to [Remote Opportunities](mailto:surhid.amatya@gmail.com)
+- 💻 Open to [Remote Opportunities](mailto:surhid.amatya@gmail.com)
 
 ### Connect with me:
 <a href="https://twitter.com/surhidamatya007" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="surhidamatya" height="22" width="22" /></a>
