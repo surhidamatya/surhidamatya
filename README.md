@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Surhid Amatya 
 
-[StackOverflow]([https://stackoverflow.com/users/3556531/keshavdulal](https://stackoverflow.com/users/1613508/surhidamatya)) | [LinkedIn](https://linkedin.com/in/surhidamatya) | [Github](https://github.com/surhidamatya) | [Twitter](https://twitter.com/@amatyasurhid007)
+[StackOverflow]([https://stackoverflow.com/users/1613508/surhidamatya]) | [LinkedIn](https://linkedin.com/in/surhidamatya) | [Github](https://github.com/surhidamatya) | [Twitter](https://twitter.com/@amatyasurhid007)
 
 ## Fullstack Typescript Engineer (Mobile Heavy)
 
