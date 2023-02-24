@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Surhid Amatya 
 
-[StackOverflow](https://stackoverflow.com/users/1613508/surhidamatya) | [LinkedIn](https://linkedin.com/in/surhidamatya) | [Github](https://github.com/surhidamatya) | [Twitter](https://twitter.com/@surhidamatya007)
+[StackOverflow](https://stackoverflow.com/users/1613508/surhidamatya) | [LinkedIn](https://linkedin.com/in/surhidamatya) | [Github](https://github.com/surhidamatya) | [Twitter](https://twitter.com/@surhidamatya007) | [Instagram](https://www.instagram.com/amatyasurhid/)
 
 ## Fullstack Typescript Engineer (Mobile Heavy)
 
@@ -13,11 +13,6 @@
 ---
 ### Do you have any remote oppurtunity ?
 💻 Please connect with [me](mailto:surhid.amatya@gmail.com)
----
-### Social Media:
-<a href="https://twitter.com/surhidamatya007" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="surhidamatya" height="22" width="22" /></a>
-<a href="https://www.linkedin.com/in/surhidamatya/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="surhidamatya" height="22" width="22" /></a>
-<a href="https://www.instagram.com/amatyasurhid/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="surhidamatya" height="22" width="22" /></a>
 ---
 Projects | Tech Stack | Tags
 --- | --- | ---
