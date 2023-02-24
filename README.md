@@ -22,6 +22,8 @@
 Projects | Tech Stack | Tags
 --- | --- | ---
 [Luminate](https://www.luminate.io/) | TS, React Native, Redux | Client
+[Jeewit Bachan](https://play.google.com/store/apps/details?id=com.jeewit.bachan) | JS, React Native, Redux, Audio, Offline | Client
+[Nagarik News](https://play.google.com/store/apps/details?id=com.bajratechnologies.nagariknews) | Java | Client
 ---
 
 ### Languages and Tools:
