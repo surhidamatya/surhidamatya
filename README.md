@@ -11,8 +11,8 @@
 - 🌱 Experienced in TDD, BDD, DDD and Integration Testing
 - ⚡ Crafted Applications for: Health, EdTech, Ecommerce, Audio/Video Sector
 ---
-### Do you have any remote oppurtunity
-Please connect with [me](mailto:surhid.amatya@gmail.com)
+### Do you have any remote oppurtunity ?
+💻 Please connect with [me](mailto:surhid.amatya@gmail.com)
 ---
 ### Social Media:
 <a href="https://twitter.com/surhidamatya007" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="surhidamatya" height="22" width="22" /></a>
